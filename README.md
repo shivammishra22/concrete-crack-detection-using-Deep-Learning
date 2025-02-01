@@ -1,4 +1,4 @@
-# concrete-crack-detection-using-Deep-Learning
+# Concrete-crack-detection-using-Deep-Learning
 
 ## Overview
 This project leverages deep learning techniques to automatically detect cracks in concrete surfaces. The model is trained on image datasets containing both cracked and non-cracked concrete surfaces, enabling efficient and accurate identification of structural defects.
